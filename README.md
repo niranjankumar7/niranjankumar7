@@ -98,15 +98,6 @@ I've owned full test infrastructure end-to-end: framework architecture, CI pipel
 
 ---
 
-## GitHub Stats
-
-<p align="left">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=niranjankumar7&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=58a6ff&text_color=c0c0d0&icon_color=58a6ff&border_color=1e1e2e&count_private=true&hide_border=false" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjankumar7&layout=compact&theme=dark&bg_color=0d0d0d&title_color=58a6ff&text_color=c0c0d0&border_color=1e1e2e&hide_border=false&langs_count=6" />
-</p>
-
----
-
 ## Currently
 
 - 🔭 Learning **contract testing** (Pact) and event-driven test strategies  
